@@ -1,4 +1,4 @@
-namespace MauiAppMinhasCompras.Resources.Views;
+namespace MauiAppMinhasCompras.Views;
 
 public partial class ListaProduto : ContentPage
 {

@@ -1,7 +1,7 @@
 ﻿using MauiAppMinhasCompras.Models;
 using SQLite;
 
-namespace MauiAppMinhasCompras.Properties.Helpers
+namespace MauiAppMinhasCompras.Helpers
 {
     public class SQLiteDatabaseHelper
     {
